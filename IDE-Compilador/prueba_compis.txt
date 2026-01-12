@@ -1,0 +1,25 @@
+main {
+int a, b ,c;
+bool d, e, f;
+float g, h, i;
+if (5==5) then {
+cout 2;
+}
+end
+cin x;
+a := 5 + 3 * 8 ^ 2 /5 %25;
+do {
+
+} until (a!=1);
+cout g;
+while (g != 15){
+c := 5 + 3 +a;
+}
+b := 4 + a++;
+
+c := 2 - b-- * 2 / 2 ^ 3 + c++;
+}
+  
+;
+}
+  
